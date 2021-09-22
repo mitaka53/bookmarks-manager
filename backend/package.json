@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "start": "nodemon .",
+    "compile": "tsc --project ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
